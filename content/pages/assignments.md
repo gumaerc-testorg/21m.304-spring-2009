@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b8cf1df5-c5e5-5f3a-9082-81df88bb151e
 ---
@@ -26,13 +29,13 @@ The work-in-progress scores represent the students' work at a point midway throu
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 STUDENTS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 SONATA FORM MOVEMENTS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 PROKOFIEV IMITATIONS
 {{< thclose >}}
 

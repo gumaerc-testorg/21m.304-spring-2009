@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Video Lecture
 uid: 1b249a84-11ab-dcb3-e654-8113471466eb
 ---
