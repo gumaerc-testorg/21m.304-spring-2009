@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b8cf1df5-c5e5-5f3a-9082-81df88bb151e
 resourcetype: Other
 title: Work-in-progress Score - Student 8
 uid: 63d7b925-c856-d00c-0d63-3d24089b27fd

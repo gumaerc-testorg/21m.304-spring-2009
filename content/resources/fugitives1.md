@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b8cf1df5-c5e5-5f3a-9082-81df88bb151e
 resourcetype: Other
 title: Prokofiev Imitation - Student 1
 uid: 92bdd052-95c1-c0fa-5a27-f1a4c62373e5

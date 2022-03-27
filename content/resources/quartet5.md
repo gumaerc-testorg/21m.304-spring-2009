@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b8cf1df5-c5e5-5f3a-9082-81df88bb151e
 resourcetype: Other
 title: Sonata Form Movement - Student 5
 uid: b89517b1-d3c2-c8e0-3b9e-ad7d34b2a8a3
