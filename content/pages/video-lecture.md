@@ -1,8 +1,11 @@
 ---
 content_type: page
+description: This section presents a sample lecture recorded during the spring of
+  2009. In the first part of the session, three students present their analysis of
+  a short piano work, followed by class discussion. The last segment of class is a
+  workshop format where students present their own compositions and receive feedback.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Video Lecture
 uid: 1b249a84-11ab-dcb3-e654-8113471466eb
 ---
