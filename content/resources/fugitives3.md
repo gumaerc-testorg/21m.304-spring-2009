@@ -6,6 +6,7 @@ file: /courses/21m-304-writing-in-tonal-forms-ii-spring-2009/85660f67d04478249af
 file_type: audio/mpeg
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Prokofiev Imitation - Student 3
 uid: 85660f67-d044-7824-9afc-37151e5720f5
 ---
 Example of student work: audio recording of a short work for piano imitating Prokofiev's "Visions Fugitives." 
-

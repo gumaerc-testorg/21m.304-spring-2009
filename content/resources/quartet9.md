@@ -6,6 +6,7 @@ file: /courses/21m-304-writing-in-tonal-forms-ii-spring-2009/2290a985f69f3acf679
 file_type: audio/mpeg
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Sonata Form Movement - Student 9
 uid: 2290a985-f69f-3acf-679a-5be48f56ea46
 ---
 Example of student work: audio recording of a large-scale Sonata form movement for String Quartet. Performed by Quartet X. 
-
