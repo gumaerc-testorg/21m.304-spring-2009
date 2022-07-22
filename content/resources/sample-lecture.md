@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lecture
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Sample lecture
 uid: cb4b4537-cc97-1c4a-990c-fe06be83b4a4
 video_files:
@@ -17,3 +28,4 @@ video_metadata:
 **Topics covered**: Prokofiev's Visions Fugitives, student presentations and composition workshop.
 
 **Instructor**: Charles Shadle
+
