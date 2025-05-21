@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: audio recording of a short work for piano imitating
   Prokofiev''s "Visions Fugitives." '
-file: /ol-ocw-studio-app/courses/21m-304-writing-in-tonal-forms-ii-spring-2009/64146f5bb8dbccd980d81a888786b84d_fugitives10.mp3
+file: /courses/21m-304-writing-in-tonal-forms-ii-spring-2009/64146f5bb8dbccd980d81a888786b84d_fugitives10.mp3
 file_size: 1920048
 file_type: audio/mpeg
 learning_resource_types:
