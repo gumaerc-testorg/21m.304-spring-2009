@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: audio recording of a large-scale Sonata form
   movement for String Quartet. Performed by Quartet X. '
-file: /courses/21m-304-writing-in-tonal-forms-ii-spring-2009/e1925763a1ccba5020ef6db5421c1a98_quartet6.mp3
+file: /ol-ocw-studio-app/courses/21m-304-writing-in-tonal-forms-ii-spring-2009/e1925763a1ccba5020ef6db5421c1a98_quartet6.mp3
 file_size: 5620712
 file_type: audio/mpeg
 learning_resource_types:
